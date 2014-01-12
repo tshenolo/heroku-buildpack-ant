@@ -18,8 +18,8 @@ Example usage:
     ...
 	-----> Heroku receiving push
 	-----> Fetching custom buildpack... done
-	-----> Java (using Apache Ant 1.9.2) app detected
-	-----> Installing Apache Ant 1.9.2.....done!
+	-----> Java (using Apache Ant 1.9.3) app detected
+	-----> Installing Apache Ant 1.9.3.....done!
 	-----> executing /tmp/build_1i100c5e7xm9u/.buildpack/apache-ant-1.8.4/bin/ant -Duser.home=/tmp/build_1i100c5e7xm9u clean install
        Buildfile: /tmp/build_1i100c5e7xm9u/build.xml
        
